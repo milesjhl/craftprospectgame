@@ -1,9 +1,11 @@
 {
-"TOTAL_MEMORY": 268435456,
+"companyName": "DefaultCompany",
+"productName": "CraftProspectGame",
 "dataUrl": "webglbuild.data.unityweb",
 "asmCodeUrl": "webglbuild.asm.code.unityweb",
 "asmMemoryUrl": "webglbuild.asm.memory.unityweb",
 "asmFrameworkUrl": "webglbuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
