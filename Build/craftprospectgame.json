@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CraftProspectGame",
+"dataUrl": "craftprospectgame.data.unityweb",
+"asmCodeUrl": "craftprospectgame.asm.code.unityweb",
+"asmMemoryUrl": "craftprospectgame.asm.memory.unityweb",
+"asmFrameworkUrl": "craftprospectgame.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
